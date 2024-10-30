@@ -1,0 +1,136 @@
+body{
+    margin:0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+.navbar{
+    position: fixed;
+    top:o;
+    width: 100%;
+    background-color: #62D9EA;
+    z-index: 1000;
+    padding: 10px 0;
+    text-align: right;
+}
+.navbar a{
+    color: rgb(27, 25, 25);
+    padding: 14px 20px;
+    text-decoration: none;
+    display: inline-block;
+
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px;
+    background-color: white;
+}
+.header-text h1{
+    justify-content: center;
+    font-size: 48px;
+    margin: 0;
+}
+.header-text p{
+    font-size: 18px;
+    color: #666;
+    margin: 20px 0;
+}
+.header-image{
+    max-width: 40%;
+    display: flex;
+    justify-content: right;
+}
+.info-section {
+    background-color: #62D9EA;
+    color: white;
+    padding: 50px 0;
+    text-align: center;
+}
+.info-section .info{
+    display: inline-block;
+    width: 30%;
+    margin: 0 1,5%;
+}
+.info-section h3{
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #000;
+}
+.info-section p{
+    font-size: 16;
+    color:#000000;
+}
+.header1{
+    font-size: 72px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.kotak{
+    display: flex;
+    justify-content:center;
+    margin-top: 50px;
+}
+.piala{
+    background-color:#ffffff;
+    border-radius: 400px;
+    width: 400px;
+    margin: 0 20px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+.piala-img{
+    width: 150;
+    height: auto;
+    border-radius: 10px;
+}
+.piala-text{
+    margin-left: 20px;
+    text-align: left;
+
+}
+
+
+.guambar{
+    margin-left: -220px;
+}
+.kotak2{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.container img{
+    margin: 50px;
+    width: 340px;
+}
+.gtw{
+    color: #000;
+    margin-bottom: 50px;
+    margin-left: 25px;
+}
+.bebs img{
+    margin-bottom: -50px;
+}
+.bebs p{
+    text-align: center;
+    margin-bottom: 75px;
+}
+.karir img{
+    margin-left: 225px;
+}
+.gambar1{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    
+}
+.gambar1 img{
+    width: 250px;
+    margin: 50px;
+}
